@@ -1,0 +1,465 @@
+Stazione,IQA,PM10µg/m³,PM2.5µg/m³,NO2µg/m³,COmg/m³,SO2µg/m³,O3µg/m³,O3*µg/m³,C6H6µg/m³,CO2ppm,Date
+ArischiaL'Aquila (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-19
+AtessaAtessa (CH),Buona,18,--,--,0.40,--,--,--,1.1,--,2022-12-19
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-19
+Cepagatti ASLCepagatti (PE),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-19
+FrancavillaFrancavilla al mare (CH),Accettabile,18,11,22,--,--,34,31,0.9,--,2022-12-19
+GammaranaTeramo (TE),n.d.,--,n.d.,n.d.,--,--,--,--,--,--,2022-12-19
+MontesilvanoMontesilvano (PE),Accettabile,17,12,29,0.77,--,--,--,1.0,--,2022-12-19
+Ortona Villa CaldariOrtona (CH),Accettabile,18,15,16,0.29,--,38,35,1.2,--,2022-12-19
+Porta RealeTeramo (TE),n.d.,n.d.,--,n.d.,n.d.,--,--,--,n.d.,--,2022-12-19
+S. GregorioS. GREGORIO (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-19
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,4,--,--,59,55,1.2,415.9,2022-12-19
+Scuola AntonelliChieti Scalo (CH),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-19
+T. D'AnnunzioPescara (PE),Buona,15,10,33,0.35,0,39,33,0.9,--,2022-12-19
+Via AmiternumL'Aquila (AQ),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-19
+Via FirenzePescara (PE),n.d.,n.d.,n.d.,n.d.,n.d.,--,--,--,n.d.,--,2022-12-19
+Via SaccoPescara (PE),Accettabile,27,--,33,--,--,39,32,--,--,2022-12-19
+ArischiaL'Aquila (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-18
+AtessaAtessa (CH),Buona,16,--,--,0.35,--,--,--,0.7,--,2022-12-18
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-18
+Cepagatti ASLCepagatti (PE),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-18
+FrancavillaFrancavilla al mare (CH),Buona,19,10,31,--,--,51,53,0.7,--,2022-12-18
+GammaranaTeramo (TE),n.d.,--,n.d.,n.d.,--,--,--,--,--,--,2022-12-18
+MontesilvanoMontesilvano (PE),Accettabile,22,12,25,0.74,--,--,--,0.9,--,2022-12-18
+Ortona Villa CaldariOrtona (CH),Accettabile,17,12,28,0.29,--,69,67,0.8,--,2022-12-18
+Porta RealeTeramo (TE),n.d.,n.d.,--,n.d.,n.d.,--,--,--,n.d.,--,2022-12-18
+S. GregorioS. GREGORIO (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-18
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,4,--,--,89,88,0.5,400.0,2022-12-18
+Scuola AntonelliChieti Scalo (CH),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-18
+T. D'AnnunzioPescara (PE),Buona,20,10,39,0.29,0,26,52,0.7,--,2022-12-18
+Via AmiternumL'Aquila (AQ),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-18
+Via FirenzePescara (PE),n.d.,n.d.,n.d.,n.d.,n.d.,--,--,--,n.d.,--,2022-12-18
+Via SaccoPescara (PE),Accettabile,25,--,33,--,--,32,57,--,--,2022-12-18
+ArischiaL'Aquila (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-17
+AtessaAtessa (CH),Buona,13,--,--,0.29,--,--,--,0.4,--,2022-12-17
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-17
+Cepagatti ASLCepagatti (PE),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-17
+FrancavillaFrancavilla al mare (CH),Buona,7,4,38,--,--,70,64,0.2,--,2022-12-17
+GammaranaTeramo (TE),n.d.,--,n.d.,n.d.,--,--,--,--,--,--,2022-12-17
+MontesilvanoMontesilvano (PE),Accettabile,12,7,41,0.98,--,--,--,0.4,--,2022-12-17
+Ortona Villa CaldariOrtona (CH),Accettabile,8,6,24,0.16,--,83,73,0.4,--,2022-12-17
+Porta RealeTeramo (TE),n.d.,n.d.,--,n.d.,n.d.,--,--,--,n.d.,--,2022-12-17
+S. GregorioS. GREGORIO (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-17
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,94,89,0.4,390.4,2022-12-17
+Scuola AntonelliChieti Scalo (CH),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-17
+T. D'AnnunzioPescara (PE),Buona,9,3,37,0.45,0,73,69,0.2,--,2022-12-17
+Via AmiternumL'Aquila (AQ),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-17
+Via FirenzePescara (PE),n.d.,n.d.,n.d.,n.d.,n.d.,--,--,--,n.d.,--,2022-12-17
+Via SaccoPescara (PE),Buona,11,--,31,--,--,73,68,--,--,2022-12-17
+ArischiaL'Aquila (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-16
+AtessaAtessa (CH),Buona,15,--,--,0.45,--,--,--,0.9,--,2022-12-16
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-16
+Cepagatti ASLCepagatti (PE),Buona,--,--,20,--,--,61,22,0.8,--,2022-12-16
+FrancavillaFrancavilla al mare (CH),Accettabile,18,13,29,--,--,21,11,1.1,--,2022-12-16
+GammaranaTeramo (TE),Accettabile,--,19,31,--,--,--,--,--,--,2022-12-16
+MontesilvanoMontesilvano (PE),Scadente,38,26,32,1.06,--,--,--,1.9,--,2022-12-16
+Ortona Villa CaldariOrtona (CH),Accettabile,15,11,21,0.26,--,50,42,0.9,--,2022-12-16
+Porta RealeTeramo (TE),Accettabile,25,--,49,1.06,--,--,--,1.6,--,2022-12-16
+S. GregorioS. GREGORIO (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-16
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,2,--,--,86,79,0.4,392.6,2022-12-16
+Scuola AntonelliChieti Scalo (CH),Scadente,34,30,38,--,2,47,13,1.5,--,2022-12-16
+T. D'AnnunzioPescara (PE),Accettabile,25,18,40,0.71,0,54,17,1.5,--,2022-12-16
+Via AmiternumL'Aquila (AQ),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-16
+Via FirenzePescara (PE),Mediocre,29,21,43,1.11,--,--,--,n.d.,--,2022-12-16
+Via SaccoPescara (PE),Mediocre,37,--,41,--,--,43,18,--,--,2022-12-16
+ArischiaL'Aquila (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-15
+AtessaAtessa (CH),Accettabile,22,--,--,0.46,--,--,--,1.1,--,2022-12-15
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-15
+Cepagatti ASLCepagatti (PE),Buona,--,--,21,--,--,21,17,0.8,--,2022-12-15
+FrancavillaFrancavilla al mare (CH),Accettabile,19,18,34,--,--,19,18,n.d.,--,2022-12-15
+GammaranaTeramo (TE),Mediocre,--,24,32,--,--,--,--,--,--,2022-12-15
+MontesilvanoMontesilvano (PE),Accettabile,23,18,35,0.91,--,--,--,1.4,--,2022-12-15
+Ortona Villa CaldariOrtona (CH),Accettabile,15,15,16,0.34,--,38,35,1.3,--,2022-12-15
+Porta RealeTeramo (TE),Accettabile,30,--,53,1.11,--,--,--,2.0,--,2022-12-15
+S. GregorioS. GREGORIO (AQ),n.d.,--,--,n.d.,--,--,n.d.,n.d.,n.d.,--,2022-12-15
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,3,--,--,82,71,n.d.,402.7,2022-12-15
+Scuola AntonelliChieti Scalo (CH),Scadente,28,27,42,--,1,22,13,1.2,--,2022-12-15
+T. D'AnnunzioPescara (PE),Mediocre,26,23,45,0.72,0,7,3,1.6,--,2022-12-15
+Via AmiternumL'Aquila (AQ),n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,n.d.,n.d.,--,2022-12-15
+Via FirenzePescara (PE),Mediocre,29,24,36,0.91,--,--,--,n.d.,--,2022-12-15
+Via SaccoPescara (PE),Buona,20,--,38,--,--,15,10,--,--,2022-12-15
+ArischiaL'Aquila (AQ),Buona,--,--,13,--,--,26,24,0.8,--,2022-12-14
+AtessaAtessa (CH),Accettabile,25,--,--,0.43,--,--,--,0.8,--,2022-12-14
+Castel Di SangroCastel Di Sangro (AQ),Buona,11,10,23,0.45,--,33,29,--,--,2022-12-14
+Cepagatti ASLCepagatti (PE),Buona,--,--,11,--,--,40,30,0.6,--,2022-12-14
+FrancavillaFrancavilla al mare (CH),Accettabile,18,15,38,--,--,31,22,1.8,--,2022-12-14
+GammaranaTeramo (TE),Accettabile,--,19,35,--,--,--,--,--,--,2022-12-14
+MontesilvanoMontesilvano (PE),Accettabile,22,19,42,0.95,--,--,--,1.4,--,2022-12-14
+Ortona Villa CaldariOrtona (CH),Accettabile,17,14,26,n.d.,--,53,47,1.1,--,2022-12-14
+Porta RealeTeramo (TE),Accettabile,25,--,54,0.97,--,--,--,1.5,--,2022-12-14
+S. GregorioS. GREGORIO (AQ),Buona,--,--,31,--,--,22,19,1.5,--,2022-12-14
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,2,--,--,76,65,n.d.,400.1,2022-12-14
+Scuola AntonelliChieti Scalo (CH),Scadente,27,26,36,--,0,41,24,0.9,--,2022-12-14
+T. D'AnnunzioPescara (PE),Mediocre,26,22,47,0.74,0,9,5,1.5,--,2022-12-14
+Via AmiternumL'Aquila (AQ),Accettabile,17,15,57,--,3,39,29,1.1,--,2022-12-14
+Via FirenzePescara (PE),Mediocre,27,23,47,0.86,--,--,--,1.4,--,2022-12-14
+Via SaccoPescara (PE),Accettabile,27,--,44,--,--,29,18,--,--,2022-12-14
+ArischiaL'Aquila (AQ),Buona,--,--,4,--,--,51,37,0.3,--,2022-12-13
+AtessaAtessa (CH),Buona,14,--,--,0.43,--,--,--,0.9,--,2022-12-13
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,14,11,31,0.40,--,50,61,--,--,2022-12-13
+Cepagatti ASLCepagatti (PE),Buona,--,--,17,--,--,53,44,0.6,--,2022-12-13
+FrancavillaFrancavilla al mare (CH),Accettabile,15,12,35,--,--,51,44,1.1,--,2022-12-13
+GammaranaTeramo (TE),Accettabile,--,17,35,--,--,--,--,--,--,2022-12-13
+MontesilvanoMontesilvano (PE),Accettabile,24,16,46,0.93,--,--,--,1.4,--,2022-12-13
+Ortona Villa CaldariOrtona (CH),Accettabile,13,11,30,n.d.,--,57,57,1.0,--,2022-12-13
+Porta RealeTeramo (TE),Accettabile,22,--,57,0.84,--,--,--,1.4,--,2022-12-13
+S. GregorioS. GREGORIO (AQ),Buona,--,--,37,--,--,68,69,0.8,--,2022-12-13
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,89,89,n.d.,404.0,2022-12-13
+Scuola AntonelliChieti Scalo (CH),Accettabile,21,18,40,--,1,55,41,0.9,--,2022-12-13
+T. D'AnnunzioPescara (PE),Accettabile,17,12,49,0.59,0,50,44,1.1,--,2022-12-13
+Via AmiternumL'Aquila (AQ),Accettabile,13,9,62,--,3,73,66,0.6,--,2022-12-13
+Via FirenzePescara (PE),Accettabile,20,14,51,0.82,--,--,--,1.2,--,2022-12-13
+Via SaccoPescara (PE),Accettabile,22,--,57,--,--,55,43,--,--,2022-12-13
+ArischiaL'Aquila (AQ),Buona,--,--,3,--,--,49,40,0.3,--,2022-12-12
+AtessaAtessa (CH),Buona,12,--,--,0.36,--,--,--,0.8,--,2022-12-12
+Castel Di SangroCastel Di Sangro (AQ),Buona,10,4,14,0.20,--,80,74,--,--,2022-12-12
+Cepagatti ASLCepagatti (PE),Buona,--,--,9,--,--,72,64,0.3,--,2022-12-12
+FrancavillaFrancavilla al mare (CH),Buona,13,8,21,--,--,52,43,0.5,--,2022-12-12
+GammaranaTeramo (TE),Accettabile,--,14,34,--,--,--,--,--,--,2022-12-12
+MontesilvanoMontesilvano (PE),Buona,15,9,30,0.64,--,--,--,0.8,--,2022-12-12
+Ortona Villa CaldariOrtona (CH),Buona,12,9,14,n.d.,--,77,65,0.7,--,2022-12-12
+Porta RealeTeramo (TE),Accettabile,18,--,42,0.76,--,--,--,1.2,--,2022-12-12
+S. GregorioS. GREGORIO (AQ),Buona,--,--,5,--,--,72,69,0.3,--,2022-12-12
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,91,90,n.d.,393.1,2022-12-12
+Scuola AntonelliChieti Scalo (CH),Accettabile,16,12,39,--,1,67,57,0.5,--,2022-12-12
+T. D'AnnunzioPescara (PE),Buona,14,7,28,0.34,0,53,43,0.6,--,2022-12-12
+Via AmiternumL'Aquila (AQ),Buona,9,7,18,--,3,76,70,0.3,--,2022-12-12
+Via FirenzePescara (PE),Buona,15,8,37,0.62,--,--,--,0.6,--,2022-12-12
+Via SaccoPescara (PE),Buona,14,--,29,--,--,54,45,--,--,2022-12-12
+ArischiaL'Aquila (AQ),Buona,--,--,5,--,--,38,34,0.2,--,2022-12-11
+AtessaAtessa (CH),Buona,19,--,--,0.26,--,--,--,0.7,--,2022-12-11
+Castel Di SangroCastel Di Sangro (AQ),Mediocre,47,13,28,0.16,--,71,55,--,--,2022-12-11
+Cepagatti ASLCepagatti (PE),Buona,--,--,14,--,--,62,61,0.4,--,2022-12-11
+FrancavillaFrancavilla al mare (CH),Buona,15,5,23,--,--,63,59,0.4,--,2022-12-11
+GammaranaTeramo (TE),Accettabile,--,14,23,--,--,--,--,--,--,2022-12-11
+MontesilvanoMontesilvano (PE),Buona,17,6,21,0.61,--,--,--,0.6,--,2022-12-11
+Ortona Villa CaldariOrtona (CH),Buona,16,9,18,n.d.,--,57,57,0.8,--,2022-12-11
+Porta RealeTeramo (TE),Buona,18,--,36,0.78,--,--,--,1.1,--,2022-12-11
+S. GregorioS. GREGORIO (AQ),Buona,--,--,22,--,--,44,54,0.6,--,2022-12-11
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,3,--,--,80,77,n.d.,389.0,2022-12-11
+Scuola AntonelliChieti Scalo (CH),Buona,17,10,31,--,0,62,65,0.6,--,2022-12-11
+T. D'AnnunzioPescara (PE),Buona,14,4,25,0.29,0,64,66,0.4,--,2022-12-11
+Via AmiternumL'Aquila (AQ),Accettabile,13,6,42,--,9,65,62,0.4,--,2022-12-11
+Via FirenzePescara (PE),Buona,16,5,13,0.64,--,--,--,0.5,--,2022-12-11
+Via SaccoPescara (PE),Buona,18,--,22,--,--,63,62,--,--,2022-12-11
+ArischiaL'Aquila (AQ),Buona,--,--,3,--,--,50,39,0.2,--,2022-12-10
+AtessaAtessa (CH),Buona,20,--,--,0.51,--,--,--,0.9,--,2022-12-10
+Castel Di SangroCastel Di Sangro (AQ),Buona,19,7,11,0.43,--,73,68,--,--,2022-12-10
+Cepagatti ASLCepagatti (PE),Buona,--,--,7,--,--,75,72,0.1,--,2022-12-10
+FrancavillaFrancavilla al mare (CH),Accettabile,19,12,28,--,--,64,57,0.5,--,2022-12-10
+GammaranaTeramo (TE),Accettabile,--,13,46,--,--,--,--,--,--,2022-12-10
+MontesilvanoMontesilvano (PE),Accettabile,25,17,23,1.08,--,--,--,0.7,--,2022-12-10
+Ortona Villa CaldariOrtona (CH),Accettabile,22,14,28,n.d.,--,70,60,0.8,--,2022-12-10
+Porta RealeTeramo (TE),Accettabile,25,--,64,0.97,--,--,--,0.9,--,2022-12-10
+S. GregorioS. GREGORIO (AQ),Buona,--,--,22,--,--,63,61,0.6,--,2022-12-10
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,96,95,n.d.,388.7,2022-12-10
+Scuola AntonelliChieti Scalo (CH),Accettabile,21,15,36,--,1,74,69,0.5,--,2022-12-10
+T. D'AnnunzioPescara (PE),Accettabile,21,12,36,0.98,0,72,66,0.6,--,2022-12-10
+Via AmiternumL'Aquila (AQ),Accettabile,16,6,54,--,8,68,65,0.5,--,2022-12-10
+Via FirenzePescara (PE),Accettabile,24,13,63,1.26,--,--,--,0.7,--,2022-12-10
+Via SaccoPescara (PE),Accettabile,20,--,45,--,--,67,62,--,--,2022-12-10
+ArischiaL'Aquila (AQ),Buona,--,--,12,--,--,49,40,0.4,--,2022-12-09
+AtessaAtessa (CH),Mediocre,41,--,--,0.50,--,--,--,1.4,--,2022-12-09
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,20,16,36,0.58,--,52,47,--,--,2022-12-09
+Cepagatti ASLCepagatti (PE),Buona,--,--,14,--,--,45,35,0.8,--,2022-12-09
+FrancavillaFrancavilla al mare (CH),Scadente,40,28,22,--,--,43,31,1.0,--,2022-12-09
+GammaranaTeramo (TE),Scadente,--,30,32,--,--,--,--,--,--,2022-12-09
+MontesilvanoMontesilvano (PE),Scadente,45,32,29,0.99,--,--,--,1.6,--,2022-12-09
+Ortona Villa CaldariOrtona (CH),Mediocre,33,23,31,n.d.,--,60,51,1.2,--,2022-12-09
+Porta RealeTeramo (TE),Mediocre,47,--,52,1.00,--,--,--,1.6,--,2022-12-09
+S. GregorioS. GREGORIO (AQ),Buona,--,--,24,--,--,70,64,1.2,--,2022-12-09
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,2,--,--,93,89,0.0,391.4,2022-12-09
+Scuola AntonelliChieti Scalo (CH),Scadente,43,34,36,--,1,52,36,1.2,--,2022-12-09
+T. D'AnnunzioPescara (PE),Scadente,39,27,39,0.80,0,43,31,1.4,--,2022-12-09
+Via AmiternumL'Aquila (AQ),Accettabile,16,10,45,--,4,75,72,0.7,--,2022-12-09
+Via FirenzePescara (PE),Scadente,45,31,38,1.17,--,--,--,1.2,--,2022-12-09
+Via SaccoPescara (PE),Mediocre,43,--,37,--,--,42,32,--,--,2022-12-09
+ArischiaL'Aquila (AQ),Buona,--,--,9,--,--,40,29,0.3,--,2022-12-08
+AtessaAtessa (CH),Accettabile,33,--,--,0.40,--,--,--,0.9,--,2022-12-08
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,25,16,35,0.51,--,66,52,--,--,2022-12-08
+Cepagatti ASLCepagatti (PE),Buona,--,--,26,--,--,50,36,0.6,--,2022-12-08
+FrancavillaFrancavilla al mare (CH),Mediocre,31,21,33,--,--,40,27,0.7,--,2022-12-08
+GammaranaTeramo (TE),Mediocre,--,21,31,--,--,--,--,--,--,2022-12-08
+MontesilvanoMontesilvano (PE),Accettabile,30,19,29,1.16,--,--,--,1.1,--,2022-12-08
+Ortona Villa CaldariOrtona (CH),Accettabile,30,18,24,0.72,--,59,55,0.9,--,2022-12-08
+Porta RealeTeramo (TE),Accettabile,n.d.,--,52,0.75,--,--,--,1.3,--,2022-12-08
+S. GregorioS. GREGORIO (AQ),Buona,--,--,39,--,--,54,33,1.7,--,2022-12-08
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,3,--,--,90,71,0.0,401.4,2022-12-08
+Scuola AntonelliChieti Scalo (CH),Scadente,35,26,37,--,0,43,34,0.9,--,2022-12-08
+T. D'AnnunzioPescara (PE),Accettabile,29,19,42,1.02,0,36,24,1.1,--,2022-12-08
+Via AmiternumL'Aquila (AQ),Accettabile,31,18,64,--,6,51,32,1.2,--,2022-12-08
+Via FirenzePescara (PE),Mediocre,33,23,29,1.29,--,--,--,1.0,--,2022-12-08
+Via SaccoPescara (PE),Accettabile,33,--,34,--,--,31,23,--,--,2022-12-08
+ArischiaL'Aquila (AQ),Buona,--,--,7,--,--,53,33,0.3,--,2022-12-07
+AtessaAtessa (CH),Accettabile,23,--,--,0.43,--,--,--,0.9,--,2022-12-07
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,27,15,35,0.45,--,69,55,--,--,2022-12-07
+Cepagatti ASLCepagatti (PE),Accettabile,--,--,26,--,--,81,80,0.5,--,2022-12-07
+FrancavillaFrancavilla al mare (CH),Accettabile,21,12,43,--,--,69,32,0.6,--,2022-12-07
+GammaranaTeramo (TE),Accettabile,--,14,53,--,--,--,--,--,--,2022-12-07
+MontesilvanoMontesilvano (PE),Mediocre,38,20,39,1.09,--,--,--,1.6,--,2022-12-07
+Ortona Villa CaldariOrtona (CH),Accettabile,21,12,37,0.67,--,80,76,0.9,--,2022-12-07
+Porta RealeTeramo (TE),Accettabile,n.d.,--,82,0.79,--,--,--,1.2,--,2022-12-07
+S. GregorioS. GREGORIO (AQ),Accettabile,--,--,41,--,--,38,22,1.9,--,2022-12-07
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,3,--,--,98,96,0.0,399.8,2022-12-07
+Scuola AntonelliChieti Scalo (CH),Accettabile,25,14,60,--,0,78,76,0.8,--,2022-12-07
+T. D'AnnunzioPescara (PE),Accettabile,28,16,52,0.84,0,38,27,1.4,--,2022-12-07
+Via AmiternumL'Aquila (AQ),Accettabile,n.d.,n.d.,71,--,n.d.,32,29,1.5,--,2022-12-07
+Via FirenzePescara (PE),Accettabile,35,20,55,1.29,--,--,--,1.4,--,2022-12-07
+Via SaccoPescara (PE),Mediocre,38,--,49,--,--,33,24,--,--,2022-12-07
+ArischiaL'Aquila (AQ),Buona,--,--,3,--,--,45,40,0.3,--,2022-12-06
+AtessaAtessa (CH),Accettabile,28,--,--,0.38,--,--,--,0.8,--,2022-12-06
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,21,10,33,n.d.,--,76,63,--,--,2022-12-06
+Cepagatti ASLCepagatti (PE),Accettabile,--,--,4,--,--,85,78,0.1,--,2022-12-06
+FrancavillaFrancavilla al mare (CH),Accettabile,24,13,44,--,--,68,56,0.7,--,2022-12-06
+GammaranaTeramo (TE),Accettabile,--,14,58,--,--,--,--,--,--,2022-12-06
+MontesilvanoMontesilvano (PE),Accettabile,29,16,50,0.83,--,--,--,1.2,--,2022-12-06
+Ortona Villa CaldariOrtona (CH),Accettabile,20,12,19,0.61,--,84,77,0.8,--,2022-12-06
+Porta RealeTeramo (TE),Accettabile,n.d.,--,84,0.90,--,--,--,1.3,--,2022-12-06
+S. GregorioS. GREGORIO (AQ),Accettabile,--,--,43,--,--,61,38,1.5,--,2022-12-06
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,99,96,0.0,390.8,2022-12-06
+Scuola AntonelliChieti Scalo (CH),Accettabile,17,8,46,--,0,81,75,0.3,--,2022-12-06
+T. D'AnnunzioPescara (PE),Accettabile,30,17,66,0.72,0,69,55,1.3,--,2022-12-06
+Via AmiternumL'Aquila (AQ),Accettabile,27,15,66,--,n.d.,72,51,1.0,--,2022-12-06
+Via FirenzePescara (PE),Mediocre,39,22,71,1.23,--,--,--,1.6,--,2022-12-06
+Via SaccoPescara (PE),Accettabile,n.d.,--,72,--,--,57,42,--,--,2022-12-06
+ArischiaL'Aquila (AQ),Buona,--,--,13,--,--,42,35,0.3,--,2022-12-05
+AtessaAtessa (CH),Buona,17,--,--,0.61,--,--,--,0.8,--,2022-12-05
+Castel Di SangroCastel Di Sangro (AQ),Buona,11,5,26,n.d.,--,69,62,--,--,2022-12-05
+Cepagatti ASLCepagatti (PE),Buona,--,--,6,--,--,78,77,0.1,--,2022-12-05
+FrancavillaFrancavilla al mare (CH),Accettabile,24,15,27,--,--,60,46,0.7,--,2022-12-05
+GammaranaTeramo (TE),Mediocre,--,24,42,--,--,--,--,--,--,2022-12-05
+MontesilvanoMontesilvano (PE),Accettabile,30,19,41,1.11,--,--,--,1.4,--,2022-12-05
+Ortona Villa CaldariOrtona (CH),Accettabile,17,12,18,0.84,--,81,75,1.0,--,2022-12-05
+Porta RealeTeramo (TE),Accettabile,32,--,60,0.99,--,--,--,1.5,--,2022-12-05
+S. GregorioS. GREGORIO (AQ),Buona,--,--,26,--,--,62,46,0.8,--,2022-12-05
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,104,95,0.0,386.4,2022-12-05
+Scuola AntonelliChieti Scalo (CH),Accettabile,18,12,60,--,1,75,71,0.6,--,2022-12-05
+T. D'AnnunzioPescara (PE),Accettabile,31,18,51,0.95,0,61,44,1.1,--,2022-12-05
+Via AmiternumL'Aquila (AQ),Accettabile,17,11,56,--,n.d.,76,66,0.7,--,2022-12-05
+Via FirenzePescara (PE),Accettabile,34,20,54,1.30,--,--,--,1.1,--,2022-12-05
+Via SaccoPescara (PE),Accettabile,n.d.,--,56,--,--,60,51,--,--,2022-12-05
+ArischiaL'Aquila (AQ),Buona,--,--,22,--,--,28,26,0.9,--,2022-12-04
+AtessaAtessa (CH),Accettabile,31,--,--,0.61,--,--,--,1.6,--,2022-12-04
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,19,17,34,n.d.,--,49,29,--,--,2022-12-04
+Cepagatti ASLCepagatti (PE),Buona,--,--,17,--,--,39,26,0.9,--,2022-12-04
+FrancavillaFrancavilla al mare (CH),Scadente,30,27,26,--,--,33,21,1.2,--,2022-12-04
+GammaranaTeramo (TE),Mediocre,--,21,27,--,--,--,--,--,--,2022-12-04
+MontesilvanoMontesilvano (PE),Scadente,35,30,38,1.16,--,--,--,2.2,--,2022-12-04
+Ortona Villa CaldariOrtona (CH),Mediocre,26,23,27,0.83,--,48,41,1.6,--,2022-12-04
+Porta RealeTeramo (TE),Mediocre,38,--,47,1.01,--,--,--,1.9,--,2022-12-04
+S. GregorioS. GREGORIO (AQ),Buona,--,--,31,--,--,23,14,2.4,--,2022-12-04
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,2,--,--,84,75,0.0,402.5,2022-12-04
+Scuola AntonelliChieti Scalo (CH),Scadente,36,35,46,--,1,24,19,1.7,--,2022-12-04
+T. D'AnnunzioPescara (PE),Scadente,38,32,42,0.88,0,33,14,2.2,--,2022-12-04
+Via AmiternumL'Aquila (AQ),Accettabile,22,20,44,--,n.d.,52,35,1.4,--,2022-12-04
+Via FirenzePescara (PE),Scadente,43,35,52,1.26,--,--,--,1.9,--,2022-12-04
+Via SaccoPescara (PE),Accettabile,n.d.,--,45,--,--,28,17,--,--,2022-12-04
+ArischiaL'Aquila (AQ),Buona,--,--,29,--,--,33,25,0.9,--,2022-12-03
+AtessaAtessa (CH),Accettabile,33,--,--,0.58,--,--,--,1.6,--,2022-12-03
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-03
+Cepagatti ASLCepagatti (PE),Buona,--,--,32,--,--,39,26,1.1,--,2022-12-03
+FrancavillaFrancavilla al mare (CH),Accettabile,23,18,34,--,--,37,24,1.3,--,2022-12-03
+GammaranaTeramo (TE),Mediocre,--,23,36,--,--,--,--,--,--,2022-12-03
+MontesilvanoMontesilvano (PE),Scadente,36,26,41,1.12,--,--,--,2.3,--,2022-12-03
+Ortona Villa CaldariOrtona (CH),Mediocre,24,22,33,0.81,--,48,46,1.8,--,2022-12-03
+Porta RealeTeramo (TE),Mediocre,44,--,58,1.03,--,--,--,2.2,--,2022-12-03
+S. GregorioS. GREGORIO (AQ),Buona,--,--,34,--,--,34,27,2.1,--,2022-12-03
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,2,--,--,67,57,0.0,411.4,2022-12-03
+Scuola AntonelliChieti Scalo (CH),Scadente,34,29,36,--,2,31,20,1.4,--,2022-12-03
+T. D'AnnunzioPescara (PE),Scadente,32,26,53,0.75,0,30,13,n.d.,--,2022-12-03
+Via AmiternumL'Aquila (AQ),Mediocre,30,24,54,--,n.d.,30,17,1.5,--,2022-12-03
+Via FirenzePescara (PE),Scadente,36,31,46,1.07,--,--,--,1.9,--,2022-12-03
+Via SaccoPescara (PE),Mediocre,41,--,55,--,--,33,20,--,--,2022-12-03
+ArischiaL'Aquila (AQ),Buona,--,--,6,--,--,41,35,0.7,--,2022-12-02
+AtessaAtessa (CH),Accettabile,24,--,--,n.d.,--,--,--,1.1,--,2022-12-02
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-02
+Cepagatti ASLCepagatti (PE),Buona,--,--,19,--,--,48,38,0.9,--,2022-12-02
+FrancavillaFrancavilla al mare (CH),Accettabile,17,12,39,--,--,36,31,1.2,--,2022-12-02
+GammaranaTeramo (TE),Accettabile,--,17,35,--,--,--,--,--,--,2022-12-02
+MontesilvanoMontesilvano (PE),Accettabile,21,15,39,0.82,--,--,--,1.5,--,2022-12-02
+Ortona Villa CaldariOrtona (CH),Accettabile,17,14,25,0.75,--,47,43,1.4,--,2022-12-02
+Porta RealeTeramo (TE),Accettabile,31,--,48,0.95,--,--,--,2.1,--,2022-12-02
+S. GregorioS. GREGORIO (AQ),Buona,--,--,25,--,--,60,50,1.4,--,2022-12-02
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,4,--,--,73,67,0.0,403.8,2022-12-02
+Scuola AntonelliChieti Scalo (CH),Mediocre,27,21,40,--,1,47,30,n.d.,--,2022-12-02
+T. D'AnnunzioPescara (PE),Accettabile,21,14,47,0.61,0,36,25,n.d.,--,2022-12-02
+Via AmiternumL'Aquila (AQ),Accettabile,19,15,46,--,n.d.,54,44,1.1,--,2022-12-02
+Via FirenzePescara (PE),Accettabile,25,17,35,0.98,--,--,--,1.5,--,2022-12-02
+Via SaccoPescara (PE),Accettabile,31,--,40,--,--,34,24,--,--,2022-12-02
+ArischiaL'Aquila (AQ),Buona,--,--,3,--,--,50,42,0.5,--,2022-12-01
+AtessaAtessa (CH),Buona,11,--,--,n.d.,--,--,--,0.6,--,2022-12-01
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-12-01
+Cepagatti ASLCepagatti (PE),Buona,--,--,12,--,--,54,49,0.6,--,2022-12-01
+FrancavillaFrancavilla al mare (CH),Accettabile,16,12,31,--,--,44,39,0.9,--,2022-12-01
+GammaranaTeramo (TE),Mediocre,--,21,34,--,--,--,--,--,--,2022-12-01
+MontesilvanoMontesilvano (PE),Accettabile,15,11,36,0.64,--,--,--,1.0,--,2022-12-01
+Ortona Villa CaldariOrtona (CH),Accettabile,15,12,11,0.82,--,56,53,1.0,--,2022-12-01
+Porta RealeTeramo (TE),Accettabile,23,--,52,1.06,--,--,--,2.0,--,2022-12-01
+S. GregorioS. GREGORIO (AQ),Buona,--,--,10,--,--,72,68,0.9,--,2022-12-01
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,2,--,--,74,72,0.0,397.3,2022-12-01
+Scuola AntonelliChieti Scalo (CH),Mediocre,25,23,42,--,1,45,35,n.d.,--,2022-12-01
+T. D'AnnunzioPescara (PE),Accettabile,15,11,44,0.40,0,44,34,n.d.,--,2022-12-01
+Via AmiternumL'Aquila (AQ),Buona,12,10,37,--,n.d.,70,58,0.6,--,2022-12-01
+Via FirenzePescara (PE),Accettabile,18,13,34,0.67,--,--,--,1.0,--,2022-12-01
+Via SaccoPescara (PE),Accettabile,22,--,36,--,--,49,42,--,--,2022-12-01
+ArischiaL'Aquila (AQ),Buona,--,--,7,--,--,49,43,0.5,--,2022-11-30
+AtessaAtessa (CH),Buona,20,--,--,n.d.,--,--,--,0.8,--,2022-11-30
+Castel Di SangroCastel Di Sangro (AQ),Buona,11,10,22,1.33,--,61,50,--,--,2022-11-30
+Cepagatti ASLCepagatti (PE),Buona,--,--,13,--,--,54,48,0.1,--,2022-11-30
+FrancavillaFrancavilla al mare (CH),Accettabile,n.d.,n.d.,41,--,--,59,49,0.6,--,2022-11-30
+GammaranaTeramo (TE),Accettabile,--,16,41,--,--,--,--,--,--,2022-11-30
+MontesilvanoMontesilvano (PE),Accettabile,20,13,38,0.89,--,--,--,1.0,--,2022-11-30
+Ortona Villa CaldariOrtona (CH),Accettabile,18,14,31,0.95,--,67,61,1.2,--,2022-11-30
+Porta RealeTeramo (TE),Accettabile,25,--,60,0.80,--,--,--,1.3,--,2022-11-30
+S. GregorioS. GREGORIO (AQ),Buona,--,--,20,--,--,70,61,1.3,--,2022-11-30
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,3,--,--,83,78,0.0,401.1,2022-11-30
+Scuola AntonelliChieti Scalo (CH),Accettabile,26,20,42,--,2,52,41,n.d.,--,2022-11-30
+T. D'AnnunzioPescara (PE),Accettabile,23,17,58,0.91,0,61,49,n.d.,--,2022-11-30
+Via AmiternumL'Aquila (AQ),Accettabile,18,13,52,--,n.d.,66,58,0.9,--,2022-11-30
+Via FirenzePescara (PE),Buona,n.d.,n.d.,40,0.92,--,--,--,0.9,--,2022-11-30
+Via SaccoPescara (PE),Accettabile,25,--,36,--,--,58,45,--,--,2022-11-30
+ArischiaL'Aquila (AQ),Buona,--,--,13,--,--,25,30,0.4,--,2022-11-29
+AtessaAtessa (CH),Buona,17,--,--,n.d.,--,--,--,0.7,--,2022-11-29
+Castel Di SangroCastel Di Sangro (AQ),Buona,11,7,20,1.26,--,64,54,--,--,2022-11-29
+Cepagatti ASLCepagatti (PE),Buona,--,--,20,--,--,65,56,0.1,--,2022-11-29
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,40,--,--,61,46,0.6,--,2022-11-29
+GammaranaTeramo (TE),Accettabile,--,15,47,--,--,--,--,--,--,2022-11-29
+MontesilvanoMontesilvano (PE),Accettabile,n.d.,n.d.,51,0.87,--,--,--,1.3,--,2022-11-29
+Ortona Villa CaldariOrtona (CH),Accettabile,18,14,30,0.93,--,70,64,1.0,--,2022-11-29
+Porta RealeTeramo (TE),Accettabile,20,--,62,0.83,--,--,--,1.3,--,2022-11-29
+S. GregorioS. GREGORIO (AQ),Buona,--,--,34,--,--,57,41,1.2,--,2022-11-29
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,2,--,--,79,73,0.0,405.0,2022-11-29
+Scuola AntonelliChieti Scalo (CH),Mediocre,28,23,45,--,2,65,46,n.d.,--,2022-11-29
+T. D'AnnunzioPescara (PE),Accettabile,n.d.,n.d.,65,0.79,0,56,35,n.d.,--,2022-11-29
+Via AmiternumL'Aquila (AQ),Accettabile,20,14,54,--,n.d.,43,33,1.0,--,2022-11-29
+Via FirenzePescara (PE),Accettabile,27,19,66,1.23,--,--,--,1.3,--,2022-11-29
+Via SaccoPescara (PE),Accettabile,27,--,57,--,--,62,41,--,--,2022-11-29
+ArischiaL'Aquila (AQ),Buona,--,--,4,--,--,50,48,0.3,--,2022-11-28
+AtessaAtessa (CH),Buona,12,--,--,n.d.,--,--,--,0.3,--,2022-11-28
+Castel Di SangroCastel Di Sangro (AQ),Buona,7,5,15,1.24,--,71,69,--,--,2022-11-28
+Cepagatti ASLCepagatti (PE),Buona,--,--,8,--,--,62,57,0.0,--,2022-11-28
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,26,--,--,61,53,0.5,--,2022-11-28
+GammaranaTeramo (TE),Accettabile,--,14,32,--,--,--,--,--,--,2022-11-28
+MontesilvanoMontesilvano (PE),Buona,17,10,32,0.70,--,--,--,0.8,--,2022-11-28
+Ortona Villa CaldariOrtona (CH),Buona,10,7,8,0.66,--,70,64,0.6,--,2022-11-28
+Porta RealeTeramo (TE),Accettabile,19,--,57,0.72,--,--,--,1.1,--,2022-11-28
+S. GregorioS. GREGORIO (AQ),Buona,--,--,16,--,--,68,66,0.5,--,2022-11-28
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,86,86,0.0,395.2,2022-11-28
+Scuola AntonelliChieti Scalo (CH),Accettabile,22,19,43,--,0,65,51,n.d.,--,2022-11-28
+T. D'AnnunzioPescara (PE),Accettabile,21,13,56,0.53,0,58,48,n.d.,--,2022-11-28
+Via AmiternumL'Aquila (AQ),Accettabile,10,6,41,--,n.d.,75,71,0.4,--,2022-11-28
+Via FirenzePescara (PE),Accettabile,20,13,40,1.32,--,--,--,0.8,--,2022-11-28
+Via SaccoPescara (PE),Accettabile,24,--,50,--,--,59,51,--,--,2022-11-28
+ArischiaL'Aquila (AQ),Buona,--,--,4,--,--,68,56,0.2,--,2022-11-27
+AtessaAtessa (CH),Buona,18,--,--,n.d.,--,--,--,0.5,--,2022-11-27
+Castel Di SangroCastel Di Sangro (AQ),Buona,5,3,15,1.47,--,72,69,--,--,2022-11-27
+Cepagatti ASLCepagatti (PE),Buona,--,--,7,--,--,69,63,0.4,--,2022-11-27
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,20,--,--,52,44,0.5,--,2022-11-27
+GammaranaTeramo (TE),Accettabile,--,20,34,--,--,--,--,--,--,2022-11-27
+MontesilvanoMontesilvano (PE),Accettabile,19,16,31,0.98,--,--,--,1.2,--,2022-11-27
+Ortona Villa CaldariOrtona (CH),Accettabile,10,9,12,0.81,--,85,78,0.8,--,2022-11-27
+Porta RealeTeramo (TE),Accettabile,34,--,55,0.80,--,--,--,1.2,--,2022-11-27
+S. GregorioS. GREGORIO (AQ),Buona,--,--,26,--,--,66,62,0.7,--,2022-11-27
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,2,--,--,88,86,0.0,394.0,2022-11-27
+Scuola AntonelliChieti Scalo (CH),Accettabile,20,19,37,--,1,61,46,n.d.,--,2022-11-27
+T. D'AnnunzioPescara (PE),Accettabile,23,19,57,0.82,0,37,29,n.d.,--,2022-11-27
+Via AmiternumL'Aquila (AQ),Buona,8,5,31,--,n.d.,78,73,0.6,--,2022-11-27
+Via FirenzePescara (PE),Accettabile,24,19,49,1.86,--,--,--,1.1,--,2022-11-27
+Via SaccoPescara (PE),Accettabile,24,--,45,--,--,48,41,--,--,2022-11-27
+ArischiaL'Aquila (AQ),Buona,--,--,15,--,--,27,19,0.4,--,2022-11-26
+AtessaAtessa (CH),Accettabile,30,--,--,n.d.,--,--,--,0.8,--,2022-11-26
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,23,15,45,1.58,--,63,39,--,--,2022-11-26
+Cepagatti ASLCepagatti (PE),Buona,--,--,23,--,--,65,48,0.5,--,2022-11-26
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,35,--,--,46,29,0.7,--,2022-11-26
+GammaranaTeramo (TE),Accettabile,--,14,49,--,--,--,--,--,--,2022-11-26
+MontesilvanoMontesilvano (PE),Accettabile,28,17,51,0.96,--,--,--,1.5,--,2022-11-26
+Ortona Villa CaldariOrtona (CH),Accettabile,14,11,36,0.80,--,71,68,0.7,--,2022-11-26
+Porta RealeTeramo (TE),Accettabile,32,--,72,0.90,--,--,--,1.7,--,2022-11-26
+S. GregorioS. GREGORIO (AQ),Buona,--,--,36,--,--,53,30,1.4,--,2022-11-26
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,92,82,0.0,406.8,2022-11-26
+Scuola AntonelliChieti Scalo (CH),Mediocre,30,23,51,--,2,55,33,n.d.,--,2022-11-26
+T. D'AnnunzioPescara (PE),Accettabile,28,20,66,0.85,0,43,27,n.d.,--,2022-11-26
+Via AmiternumL'Aquila (AQ),Accettabile,24,16,50,--,n.d.,46,22,1.2,--,2022-11-26
+Via FirenzePescara (PE),Mediocre,31,21,74,1.89,--,--,--,1.8,--,2022-11-26
+Via SaccoPescara (PE),Accettabile,31,--,61,--,--,51,31,--,--,2022-11-26
+ArischiaL'Aquila (AQ),Buona,--,--,13,--,--,23,20,0.4,--,2022-11-25
+AtessaAtessa (CH),Accettabile,22,--,--,n.d.,--,--,--,0.6,--,2022-11-25
+Castel Di SangroCastel Di Sangro (AQ),Accettabile,18,12,33,1.66,--,48,n.d.,--,--,2022-11-25
+Cepagatti ASLCepagatti (PE),Buona,--,--,19,--,--,55,46,0.5,--,2022-11-25
+FrancavillaFrancavilla al mare (CH),Accettabile,n.d.,n.d.,41,--,--,54,32,0.6,--,2022-11-25
+GammaranaTeramo (TE),Accettabile,--,14,46,--,--,--,--,--,--,2022-11-25
+MontesilvanoMontesilvano (PE),Accettabile,28,17,44,0.91,--,--,--,1.5,--,2022-11-25
+Ortona Villa CaldariOrtona (CH),Buona,13,10,30,0.77,--,63,58,0.8,--,2022-11-25
+Porta RealeTeramo (TE),Accettabile,29,--,63,0.77,--,--,--,1.4,--,2022-11-25
+S. GregorioS. GREGORIO (AQ),Buona,--,--,32,--,--,49,31,1.6,--,2022-11-25
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Buona,--,--,2,--,--,77,69,0.0,401.9,2022-11-25
+Scuola AntonelliChieti Scalo (CH),Mediocre,28,23,42,--,1,60,37,n.d.,--,2022-11-25
+T. D'AnnunzioPescara (PE),Accettabile,25,18,60,0.72,0,51,26,0.6,--,2022-11-25
+Via AmiternumL'Aquila (AQ),Accettabile,19,14,41,--,n.d.,61,34,1.1,--,2022-11-25
+Via FirenzePescara (PE),Accettabile,28,18,55,1.47,--,--,--,1.3,--,2022-11-25
+Via SaccoPescara (PE),Accettabile,30,--,56,--,--,50,30,--,--,2022-11-25
+ArischiaL'Aquila (AQ),Buona,--,--,5,--,--,52,44,0.3,--,2022-11-24
+AtessaAtessa (CH),Buona,11,--,--,n.d.,--,--,--,0.4,--,2022-11-24
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-11-24
+Cepagatti ASLCepagatti (PE),Buona,--,--,13,--,--,61,62,0.4,--,2022-11-24
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,38,--,--,62,61,0.5,--,2022-11-24
+GammaranaTeramo (TE),Accettabile,--,9,46,--,--,--,--,--,--,2022-11-24
+MontesilvanoMontesilvano (PE),Buona,17,8,33,0.58,--,--,--,0.8,--,2022-11-24
+Ortona Villa CaldariOrtona (CH),Buona,9,6,25,0.71,--,71,72,0.6,--,2022-11-24
+Porta RealeTeramo (TE),Accettabile,20,--,64,0.63,--,--,--,1.1,--,2022-11-24
+S. GregorioS. GREGORIO (AQ),Buona,--,--,35,--,--,69,64,0.6,--,2022-11-24
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,85,80,0.0,395.2,2022-11-24
+Scuola AntonelliChieti Scalo (CH),Accettabile,14,12,47,--,1,66,65,0.1,--,2022-11-24
+T. D'AnnunzioPescara (PE),Accettabile,13,8,67,0.51,0,66,60,0.2,--,2022-11-24
+Via AmiternumL'Aquila (AQ),Accettabile,13,9,56,--,n.d.,70,65,0.6,--,2022-11-24
+Via FirenzePescara (PE),Accettabile,16,8,50,1.19,--,--,--,0.8,--,2022-11-24
+Via SaccoPescara (PE),Accettabile,14,--,58,--,--,61,61,--,--,2022-11-24
+ArischiaL'Aquila (AQ),Buona,--,--,5,--,--,47,44,0.2,--,2022-11-23
+AtessaAtessa (CH),Buona,6,--,--,n.d.,--,--,--,0.5,--,2022-11-23
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-11-23
+Cepagatti ASLCepagatti (PE),Buona,--,--,10,--,--,70,64,0.1,--,2022-11-23
+FrancavillaFrancavilla al mare (CH),Buona,n.d.,n.d.,26,--,--,63,60,0.3,--,2022-11-23
+GammaranaTeramo (TE),Buona,--,4,33,--,--,--,--,--,--,2022-11-23
+MontesilvanoMontesilvano (PE),Buona,8,6,33,0.99,--,--,--,0.6,--,2022-11-23
+Ortona Villa CaldariOrtona (CH),Buona,7,4,10,0.58,--,77,73,0.3,--,2022-11-23
+Porta RealeTeramo (TE),Accettabile,7,--,58,0.73,--,--,--,0.8,--,2022-11-23
+S. GregorioS. GREGORIO (AQ),Buona,--,--,16,--,--,52,50,0.5,--,2022-11-23
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,93,87,0.0,387.1,2022-11-23
+Scuola AntonelliChieti Scalo (CH),Accettabile,6,6,43,--,0,68,63,0.3,--,2022-11-23
+T. D'AnnunzioPescara (PE),Accettabile,6,3,57,0.28,0,65,62,0.1,--,2022-11-23
+Via AmiternumL'Aquila (AQ),Buona,4,3,35,--,n.d.,60,57,0.3,--,2022-11-23
+Via FirenzePescara (PE),Accettabile,9,5,50,1.09,--,--,--,0.5,--,2022-11-23
+Via SaccoPescara (PE),Accettabile,9,--,44,--,--,67,59,--,--,2022-11-23
+ArischiaL'Aquila (AQ),Buona,--,--,13,--,--,50,41,0.3,--,2022-11-22
+AtessaAtessa (CH),Buona,16,--,--,n.d.,--,--,--,0.5,--,2022-11-22
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-11-22
+Cepagatti ASLCepagatti (PE),Buona,--,--,5,--,--,70,67,0.1,--,2022-11-22
+FrancavillaFrancavilla al mare (CH),Buona,10,7,28,--,--,63,56,0.5,--,2022-11-22
+GammaranaTeramo (TE),Accettabile,--,16,44,--,--,--,--,--,--,2022-11-22
+MontesilvanoMontesilvano (PE),n.d.,n.d.,n.d.,n.d.,n.d.,--,--,--,n.d.,--,2022-11-22
+Ortona Villa CaldariOrtona (CH),Buona,7,6,27,0.57,--,75,68,0.4,--,2022-11-22
+Porta RealeTeramo (TE),Accettabile,27,--,65,0.77,--,--,--,1.3,--,2022-11-22
+S. GregorioS. GREGORIO (AQ),Accettabile,--,--,44,--,--,70,55,0.9,--,2022-11-22
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,89,85,0.0,396.8,2022-11-22
+Scuola AntonelliChieti Scalo (CH),Buona,7,4,31,--,1,67,62,0.3,--,2022-11-22
+T. D'AnnunzioPescara (PE),Accettabile,10,6,58,0.36,0,66,56,0.1,--,2022-11-22
+Via AmiternumL'Aquila (AQ),Accettabile,13,8,64,--,n.d.,66,44,0.6,--,2022-11-22
+Via FirenzePescara (PE),Accettabile,12,7,45,1.07,--,--,--,0.8,--,2022-11-22
+Via SaccoPescara (PE),Accettabile,16,--,50,--,--,59,54,--,--,2022-11-22
+ArischiaL'Aquila (AQ),Buona,--,--,5,--,--,38,36,0.3,--,2022-11-21
+AtessaAtessa (CH),Buona,6,--,--,n.d.,--,--,--,0.5,--,2022-11-21
+Castel Di SangroCastel Di Sangro (AQ),n.d.,n.d.,n.d.,n.d.,n.d.,--,n.d.,n.d.,--,--,2022-11-21
+Cepagatti ASLCepagatti (PE),Buona,--,--,7,--,--,45,37,0.5,--,2022-11-21
+FrancavillaFrancavilla al mare (CH),Buona,6,4,11,--,--,59,56,0.3,--,2022-11-21
+GammaranaTeramo (TE),Buona,--,10,27,--,--,--,--,--,--,2022-11-21
+MontesilvanoMontesilvano (PE),n.d.,n.d.,n.d.,n.d.,n.d.,--,--,--,n.d.,--,2022-11-21
+Ortona Villa CaldariOrtona (CH),Buona,6,4,10,0.69,--,69,64,0.4,--,2022-11-21
+Porta RealeTeramo (TE),Accettabile,22,--,40,0.79,--,--,--,1.4,--,2022-11-21
+S. GregorioS. GREGORIO (AQ),Buona,--,--,13,--,--,53,50,0.5,--,2022-11-21
+Sant'Eufemia a Maiella P.N.MS.Eufemia a Maiella (PE),Accettabile,--,--,1,--,--,86,83,0.0,398.3,2022-11-21
+Scuola AntonelliChieti Scalo (CH),Accettabile,16,13,34,--,0,51,32,0.5,--,2022-11-21
+T. D'AnnunzioPescara (PE),Buona,9,4,35,0.54,0,58,55,0.1,--,2022-11-21
+Via AmiternumL'Aquila (AQ),Buona,6,3,32,--,n.d.,74,66,0.4,--,2022-11-21
+Via FirenzePescara (PE),Buona,9,4,16,1.28,--,--,--,0.4,--,2022-11-21
+Via SaccoPescara (PE),Buona,10,--,20,--,--,59,53,--,--,2022-11-21
