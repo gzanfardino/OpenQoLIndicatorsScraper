@@ -30,7 +30,7 @@ try:
         html_table = driver.find_element(By.XPATH, '//*[@id="cdk-accordion-child-1"]/div/table')
 
         #Waiting for half a second to let the table load and avoid getting blocked
-        time.sleep(0.5)
+        time.sleep(0.3)
 
         #Clicking on the previous-day button to load the previous-day table
         button = driver.find_element(
