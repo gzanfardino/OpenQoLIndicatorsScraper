@@ -21,22 +21,37 @@ driver.implicitly_wait(10)
 driver.get("https://sira.artaabruzzo.it/#/stazioni-fisse") 
 
 CURRENT_DATE = date.today()
-DAYS_TO_SCRAPE = 30
+DAYS_TO_SCRAPE = 3000
 
+partial_tables = []
 try:
-    partial_tables = []
     for i in range(1, DAYS_TO_SCRAPE):
+        last_fetched_date = ""
+        #Making a copy of the current data.csv to avoid changing it
+        with open('data.csv', 'r') as f:
+            current_line = ""
+            
+            # Suffixing it with the current datetime to avoid overwriting the previous copy 
+            with open(f'data_{datetime.now().strftime("%d-%m-%Y_%H-%M-%S")}.csv', 'w') as f1:
+                for line in f:
+                    f1.write(line)
+                    current_line = line
+
+            # Storing the last line of the in a date variable
+            last_line =  datetime.strptime(current_line.split(',')[-1], '%Y-%m-%d').date()
+
+
         #Waiting for the table to load and storing it in a variable
         html_table = driver.find_element(By.XPATH, '//*[@id="cdk-accordion-child-1"]/div/table')
 
         #Waiting for half a second to let the table load and avoid getting blocked
-        time.sleep(0.3)
+        time.sleep(0.5)
 
         #Clicking on the previous-day button to load the previous-day table
         button = driver.find_element(
-            By.XPATH, 
+            By.XPATH,
             '/html/body/app-root/main-nav/mat-sidenav-container/mat-sidenav-content/div[2]/app-stazioni-fisse/div[1]/div[1]/img[1]'
-            )
+        )
         ActionChains(driver).click(button).perform()
 
         #Converting the table to a pandas dataframe
@@ -48,14 +63,20 @@ try:
 
         #Appending the table to the list of tables
         partial_tables.append(pd_table[0])
-    
-    #Concatenating all the tables
-    full_table = pd.concat(partial_tables)
 
-    #Storing the table in a csv file
-    full_table.to_csv(f'data.csv', index=False)
+        #Waiting for half a second to let avoid getting blocked
+        time.sleep(0.5)
+
     print("Successfully scraped the data for the last 30 days")
 except:
     print("Element not found")
+
+    
+#Concatenating all the tables
+full_table = pd.concat(partial_tables)
+
+#Storing the table in a csv file
+full_table.to_csv(f'data.csv', index=False)
+
 driver.save_screenshot('screenshot.png')
 driver.quit()
